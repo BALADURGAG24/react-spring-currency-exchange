@@ -1,0 +1,21 @@
+.rates-table-container {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .rates-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .rates-table th,
+  .rates-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .rates-table th {
+    background-color: #f4f4f4;
+  }
+  

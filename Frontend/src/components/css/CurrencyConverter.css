@@ -1,0 +1,40 @@
+.currency-converter {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .converter-header {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .converter-controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    align-items: center;
+  }
+  
+  .converter-controls input[type="number"] {
+    width: 100px;
+    padding: 0.4rem;
+  }
+  
+  .converter-controls select,
+  .converter-controls button {
+    padding: 0.4rem;
+    font-size: 1rem;
+  }
+  
+  .conversion-result {
+    font-weight: bold;
+    margin-top: 1rem;
+  }
+  
+  .rates-title {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+  }
+  
